@@ -21,3 +21,5 @@ if (capital<=maximoCapital && numeroCuotas<=6){
         console.log('Cuota ',i,': ',montoCuota2)
 }
 } else alert ('Requisitos: máximo de capital 5.000 USD y máximo de cuotas 12')
+
+
